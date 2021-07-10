@@ -1,0 +1,10 @@
+INFO:root:Image 1 is loaded correctly
+ERROR:root:Image 2 has a differnt size than Image 1
+INFO:root:Image 2 is loaded correctly
+INFO:root:you choose image 1 Magnitude__component to be shown 
+INFO:root:you choose image 2 Magnitude__component to be shown 
+INFO:root:New Window is opened
+INFO:root:Image 1 is loaded correctly
+INFO:root:Image 2 is loaded correctly
+INFO:root:you choose image 1 Magnitude__component to be shown 
+INFO:root:you choose image 2 Magnitude__component to be shown 
